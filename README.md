@@ -39,6 +39,8 @@
     <!-- <img src="https://img.shields.io/badge/-TypeScript-333?logo=typescript&style=for-the-badge" alt="TypeScript" /> -->
 </div>
 
+<br>
+<br>
 
 <h3>
   :man_technologist: 
