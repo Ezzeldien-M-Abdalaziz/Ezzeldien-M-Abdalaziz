@@ -15,7 +15,7 @@
   </a>
   
 <a href="https://www.codewars.com/users/Ezzeldien">
-    <img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg"> alt="Code Wars" />
+    <img src="https://uploads-ssl.webflow.com/62e95dddfb380a0e61193e7d/6363e7db70db732290fa3db6_logo-256.png"> alt="Code Wars" />
   </a>
 
 <h3>
