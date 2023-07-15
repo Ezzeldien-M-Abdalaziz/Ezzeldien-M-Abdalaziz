@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Passionate Web Developer</h3>
 <br>
 
-<div style = "">
+
   <a href="mailto:ezz.magdy30@gmail.com">
     <img src="https://img.shields.io/badge/Email-b23121?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
   </a>
@@ -19,7 +19,6 @@
     <img style="width:128px;height:29px;" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/codewars_button_icon_151901.png" alt="Code Wars" />
   </a>
   
-</div>
 
   <br />
   <br />
