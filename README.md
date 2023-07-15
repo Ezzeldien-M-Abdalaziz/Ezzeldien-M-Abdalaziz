@@ -18,24 +18,7 @@
     <img style="width:128px;height:29px;" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/codewars_button_icon_151901.png" alt="Code Wars" />
   </a>
 
-<h3>
-  :man_technologist: 
-  About Me
-</h3>
-
-<img width="450" height="300" align="right" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg" />&nbsp;
-
-- :clock7:  I love learning web development.
-
-- ♟️ : Competitive Chess Player
-  
-- :running_man: I enjoy playing sports and do so regularly.
-  
-- :telescope: Seeking for knowledge & acquiring new skills.
-  
-
-<br />
-<br />
+  <br />
 
 <h3>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35">
@@ -54,5 +37,22 @@
     <!-- <img src="https://img.shields.io/badge/-React-333?logo=react&style=for-the-badge" alt="React.js" /> -->
     <!-- <img src="https://img.shields.io/badge/-TypeScript-333?logo=typescript&style=for-the-badge" alt="TypeScript" /> -->
 </div>
+
+
+<h3>
+  :man_technologist: 
+  About Me
+</h3>
+
+<img width="450" height="300" align="right" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg" />&nbsp;
+
+- :clock7:  I love learning web development.
+
+- ♟️ : Competitive Chess Player
+  
+- :running_man: I enjoy playing sports and do so regularly.
+  
+- :telescope: Seeking for knowledge & acquiring new skills.
+
 
 
