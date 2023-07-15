@@ -30,7 +30,7 @@
 - ♟️ : Competitive Chess Player
   
 - :running_man: I enjoy playing sports and do so regularly.
-- 
+  
 - :telescope: Seeking for knowledge & acquiring new skills.
   
 
@@ -43,7 +43,7 @@
 </h3>
 
 <div>
-    < <img src="https://img.shields.io/badge/-C++-333?logo=cplusplus&style=for-the-badge" alt="C++" />
+    <img src="https://img.shields.io/badge/-C++-333?logo=cplusplus&style=for-the-badge" alt="C++" />
     <img src="https://img.shields.io/badge/-Html-333?logo=html5&style=for-the-badge" alt="HTML" />
     <img src="https://img.shields.io/badge/-Css-333?logo=css3&style=for-the-badge&logoColor=blue" alt="CSS" />
     <img src="https://img.shields.io/badge/-Bootstrap-333?logo=bootstrap&style=for-the-badge" alt="Bootstrap" />
