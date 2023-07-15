@@ -1,5 +1,6 @@
 <h1 align="center">Hey There Fellow Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" /></h1>
 <h3 align="center">I'm a Passionate Web Developer</h3>
+<br>
 
 
   <a href="mailto:ezz.magdy30@gmail.com">
@@ -46,8 +47,6 @@
   :man_technologist: 
   About Me
 </h3>
-
-<img width="450" height="300" align="right" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg" />&nbsp;
 
 - :clock7:  I love learning web development.
 
