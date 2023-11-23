@@ -49,13 +49,13 @@
   About Me
 </h3>
 
-- :clock7:  I love learning web development.
+I love learning web development.
 
-- ♟️ : Competitive Chess Player
+Competitive Chess Player
   
-- :running_man: I enjoy playing sports and do so regularly.
+I enjoy playing sports and do so regularly.
   
-- :telescope: Seeking for knowledge & acquiring new skills.
+Seeking for knowledge & acquiring new skills.
   <br />
   <br />
   <br />
