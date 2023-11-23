@@ -49,7 +49,7 @@
   About Me
 </h3>
 
-I love learning web development.
+I love learning.
 
 Competitive Chess Player
   
