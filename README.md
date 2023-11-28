@@ -34,6 +34,7 @@
     <img src="https://img.shields.io/badge/-Css-333?logo=css3&style=for-the-badge&logoColor=blue" alt="CSS" />
     <img src="https://img.shields.io/badge/-Bootstrap-333?logo=bootstrap&style=for-the-badge" alt="Bootstrap" />
     <img src="https://img.shields.io/badge/-Javascript%20+%20ES6-333?logo=javascript&style=for-the-badge" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/PHP%20+%20ES6-333?logo=PHP&style=for-the-badge" alt="PHP" />
     <img src="https://img.shields.io/badge/-SCSS-333?logo=sass&style=for-the-badge" alt="SCSS" />
     <img src="https://img.shields.io/badge/-Gulp.js-333?logo=gulp&style=for-the-badge" alt="Gulp.js" />
       <img src="https://img.shields.io/badge/-Git-333?logo=git&style=for-the-badge" alt="Git" />
