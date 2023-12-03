@@ -23,25 +23,27 @@
   <br />
   <br />
 
-<h3>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35">
-  My Skills
-</h3>
+### 🧰 Languages and Tools
 
-<div>
-    <img src="https://img.shields.io/badge/-C++-333?logo=cplusplus&style=for-the-badge" alt="C++" />
-    <img src="https://img.shields.io/badge/-Html-333?logo=html5&style=for-the-badge" alt="HTML" />
-    <img src="https://img.shields.io/badge/-Css-333?logo=css3&style=for-the-badge&logoColor=blue" alt="CSS" />
-    <img src="https://img.shields.io/badge/-Bootstrap-333?logo=bootstrap&style=for-the-badge" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/-Javascript%20+%20ES6-333?logo=javascript&style=for-the-badge" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/-PHP-333?logo=PHP&style=for-the-badge&logoColor=blue" alt="PHP" />
-    <img src="https://img.shields.io/badge/-SCSS-333?logo=sass&style=for-the-badge" alt="SCSS" />
-    <img src="https://img.shields.io/badge/-Gulp.js-333?logo=gulp&style=for-the-badge" alt="Gulp.js" />
-      <img src="https://img.shields.io/badge/-Git-333?logo=git&style=for-the-badge" alt="Git" />
-    <!-- <img src="https://img.shields.io/badge/-React-333?logo=react&style=for-the-badge" alt="React.js" /> -->
-    <!-- <img src="https://img.shields.io/badge/-TypeScript-333?logo=typescript&style=for-the-badge" alt="TypeScript" /> -->
-</div>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
 
+#
 <br>
 <br>
 
