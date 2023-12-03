@@ -1,5 +1,5 @@
 <h1 align="left">&#9813; Ezzeldien Magdy</h1>
-<h3 align="center"><italic>I'm a Passionate Web Develope</italic>r</h3>
+<h3 style="text-align: center;"><em>I'm a Passionate Web Developer</em></h3>
 <br>
 
   <a href="mailto:ezz.magdy30@gmail.com">
@@ -50,8 +50,11 @@
 </h3>
 
 I love learning.
-Competitive Chess Player
+
+Competitive Chess Player.
+
 I enjoy playing sports and do so regularly.
+
 Seeking for knowledge & acquiring new skills.
   <br />
   <br />
