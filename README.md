@@ -1,4 +1,4 @@
-<h1 align="left">Hey There Fellow Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" /></h1>
+<h1 align="left">Ezzeldien Magdy</h1>
 <h3 align="center">I'm a Passionate Web Developer</h3>
 <br>
 
