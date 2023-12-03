@@ -1,17 +1,17 @@
 <h1 align="left">&#9813; Ezzeldien Magdy</h1>
-<h3 align="center"><em>I'm a Passionate Web Developer</em></h3>
+<h3 align="center"><em>I'm a Passionate Web Developer.</em></h3>
 <br>
 
   <a href="mailto:ezz.magdy30@gmail.com">
-    <img src="https://img.shields.io/badge/Email-b23121?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
+    <img style="padding-right:10px;" src="https://img.shields.io/badge/Email-b23121?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+    <img style="padding-right:10px;" src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
 </div>
 
   <a href="">
-    <img src="https://img.shields.io/badge/Leetcode-f09a1a?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode" />
+    <img style="padding-right:10px;" src="https://img.shields.io/badge/Leetcode-f09a1a?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode" />
   </a>
   
 <a href="https://www.codewars.com/users/Ezzeldien">
