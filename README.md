@@ -1,5 +1,5 @@
 <h1 align="left">&#9813; Ezzeldien Magdy</h1>
-<p align="center"><em>I'm a Passionate Web Developer</em></p>
+<h3 align="center"><em>I'm a Passionate Web Developer</em></h3>
 <br>
 
   <a href="mailto:ezz.magdy30@gmail.com">
