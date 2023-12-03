@@ -1,7 +1,6 @@
-<h1 align="left">&#9813;Ezzeldien Magdy</h1>
-<h3 align="center">I'm a Passionate Web Developer</h3>
+<h1 align="left">&#9813; Ezzeldien Magdy</h1>
+<h3 align="center"><italic>I'm a Passionate Web Develope</italic>r</h3>
 <br>
-
 
   <a href="mailto:ezz.magdy30@gmail.com">
     <img src="https://img.shields.io/badge/Email-b23121?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
@@ -51,11 +50,8 @@
 </h3>
 
 I love learning.
-
 Competitive Chess Player
-  
 I enjoy playing sports and do so regularly.
-  
 Seeking for knowledge & acquiring new skills.
   <br />
   <br />
