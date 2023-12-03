@@ -39,7 +39,9 @@
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br />
-  <hr style="width:200px;margin:100px;" />
+  <div style="width: 200px; margin: 100px auto;">
+  <hr style="border: none; height: 1px; background-color: #000;">
+</div>
 
 <h3>
   :man_technologist: 
