@@ -1,4 +1,4 @@
-<h1 align="left">Ezzeldien Magdy</h1>
+<h1 align="left">&#9819;Ezzeldien Magdy</h1>
 <h3 align="center">I'm a Passionate Web Developer</h3>
 <br>
 
