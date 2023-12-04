@@ -44,10 +44,9 @@
   <hr style="border: none; height: 1px; background-color: #000;">
 </div>
   <br />
-<h3>
-  :man_technologist: 
+<h2>
   About Me
-</h3>
+</h2>
 
 I love learning.
 
