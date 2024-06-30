@@ -6,12 +6,12 @@
   <a href="mailto:ezz.magdy30@gmail.com">
     <img style="padding-right:10px;" src="https://img.shields.io/badge/Email-b23121?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
   </a>
-  <a href="">
+  <a href="https://www.linkedin.com/in/ezzeldien-magdy-89b788282/">
     <img style="padding-right:10px;" src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
 </div>
 
-  <a href="">
+  <a href="https://leetcode.com/u/user9644Fi/">
     <img style="padding-right:10px;" src="https://img.shields.io/badge/Leetcode-f09a1a?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode" />
   </a>
   
