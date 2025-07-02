@@ -24,7 +24,7 @@
   <br />
 
 ### 🧰 Languages and Tools
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,html,css,scss,bootstrap,tailwind,nodejs,expressjs,angular,php,laravel,java,spring,mysql,postgresql,git,linux,aws,docker,postman,phpstorm&perline=12" />
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,html,css,scss,bootstrap,tailwind,nodejs,expressjs,angular,php,laravel,java,spring,mysql,postgresql,git,linux,aws,docker,postman,redis,phpstorm&perline=12" />
 
   <hr style="border: none; height: 1px; background-color: #000;">
 
